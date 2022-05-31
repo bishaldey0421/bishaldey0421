@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bishaldey0421
 - 👀 I’m interested in ...marketing
 - 🌱 I’m currently learning ...bba
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...6305783446
 
 <!---
